@@ -10,7 +10,7 @@
         <instrumentationKey>${INSTRUMENTATION_KEY}</instrumentationKey>
     </appender>
 
-    <root level="WARN">
+    <root level="info">
         <appender-ref ref="aiAppender" />
     </root>
     <logger name="com.microsoft.applicationinsights" level="Warn"/>
