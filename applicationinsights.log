@@ -1,0 +1,6 @@
+2022-06-14 20:51:01.686-07:00 INFO  c.m.applicationinsights.agent - ApplicationInsights Java Agent 3.2.11 started successfully (PID 7632)
+2022-06-14 20:51:01.689-07:00 INFO  c.m.applicationinsights.agent - Java version: 1.8.0_251, vendor: Oracle Corporation, home: C:\Program Files\Java\jdk1.8.0_251\jre
+2022-06-14 21:03:43.164-07:00 INFO  c.m.applicationinsights.agent - ApplicationInsights Java Agent 3.2.11 started successfully (PID 12196)
+2022-06-14 21:03:43.169-07:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.7, vendor: Oracle Corporation, home: C:\Program Files\Java\jdk-11.0.7
+2022-06-14 21:04:11.079-07:00 INFO  c.m.applicationinsights.agent - ApplicationInsights Java Agent 3.2.11 started successfully (PID 14676)
+2022-06-14 21:04:11.087-07:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.7, vendor: Oracle Corporation, home: C:\Program Files\Java\jdk-11.0.7
